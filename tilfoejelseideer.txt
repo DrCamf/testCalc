@@ -1,0 +1,4 @@
+tilføje visuel tabel
+bruge array functioner
+finde andre på github med mulighed for udvidelse
+evt tage mit rene 6 er ind i en visuel metode.
